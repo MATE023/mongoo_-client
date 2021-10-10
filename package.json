@@ -39,5 +39,6 @@
     "react-router-dom": "^5.3.0",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.0.4"
-  }
+  },
+"proxy": "https://afternoon-plateau-89314.herokuapp.com/"
 }
